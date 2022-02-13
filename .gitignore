@@ -1,0 +1,13 @@
+# ignore node dependency directories (used by grunt)
+node_modules/
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+# ignore log files
+*.log
