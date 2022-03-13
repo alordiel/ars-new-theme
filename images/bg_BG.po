@@ -1,0 +1,1071 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arsofiav1\n"
+"POT-Creation-Date: 2015-10-29 11:40+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: SA Media\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adopt-page.php:37 page-animals.php:22
+msgid "Search Selection:"
+msgstr "Търсене по:"
+
+#: adopt-page.php:45 page-animals.php:38
+msgid "Status:"
+msgstr "Статус:"
+
+#: adopt-page.php:50 page-animals.php:29
+msgid "Type:"
+msgstr "Тип:"
+
+#: adopt-page.php:54 page-animals.php:33
+msgid "Gender:"
+msgstr "Пол:"
+
+#: adopt-page.php:58 page-animals.php:43
+msgid "Size:"
+msgstr "Размер:"
+
+#: adopt-page.php:62 page-animals.php:47
+msgid "Age:"
+msgstr "Възраст:"
+
+#: adopt_box.php:4
+msgid "Looking for a home"
+msgstr "Looking for a home"
+
+#: archive.php:29 layouts/default.php:29 layouts/default.php:31
+msgid "Permanent Link to"
+msgstr "Към"
+
+#: archive.php:30 category-162.php:45 category-163.php:45 latest_blog.php:29
+#: layouts/default.php:30 single-animals.php:39 single-animals.php:82
+#: single-video.php:15 single.php:12
+msgid "Posted on"
+msgstr "Публикувано на"
+
+#: archive.php:34 includes/featured.php:31 layouts/default.php:31
+msgid "Continue Reading"
+msgstr "Още..."
+
+#: archive.php:40 category-162.php:54 category-163.php:54 search.php:45
+msgid "&laquo; Older Entries"
+msgstr "&laquo; По-стари"
+
+#: archive.php:41 category-162.php:55 category-163.php:55 search.php:46
+msgid "Newer Entries &raquo;"
+msgstr "По-нови &raquo;"
+
+#: comments.php:2
+msgid "Facebook comments"
+msgstr "Facebook comments"
+
+#: comments.php:124
+msgid "Leave a Reply"
+msgstr "Коментирай"
+
+#: comments.php:134
+msgid "Logged in as"
+msgstr "В сайта като"
+
+#: comments.php:134
+msgid "Logout &raquo;"
+msgstr "Изход"
+
+#: comments.php:138
+msgid "Name"
+msgstr "Име"
+
+#: comments.php:145
+msgid "Submit Comment"
+msgstr "Коментиране"
+
+#: donationembed.php:53 includes/donate-page-top.php:91
+#: includes/donate-shelter-test.php:72 includes/donate-shelter.php:75
+msgid "/images/paypal_logo.gif"
+msgstr "/images/paypal_logo.gif"
+
+#: donationembed.php:59 donationembed.php:60 donationembed.php:61
+#: donationembed.php:62 donationembed.php:63 donationembed.php:64
+#: donationembed.php:65 donationembed.php:66 donationembed.php:70
+#: includes/donate-page-top.php:103 includes/donate-page-top.php:104
+#: includes/donate-page-top.php:105 includes/donate-page-top.php:106
+#: includes/donate-page-top.php:107 includes/donate-page-top.php:108
+#: includes/donate-page-top.php:109 includes/donate-page-top.php:110
+#: includes/donate-page-top.php:114 includes/donate-shelter-test.php:83
+#: includes/donate-shelter-test.php:87 includes/donate-shelter.php:86
+#: includes/donate-shelter.php:90
+msgid "Euro"
+msgstr "Евро"
+
+#: donationembed.php:73 includes/donate-page-top.php:99
+#: includes/donate-shelter-test.php:78 includes/donate-shelter.php:81
+msgid "One Time Donation:"
+msgstr "Еднократно"
+
+#: donationembed.php:74 includes/donate-page-top.php:100
+#: includes/donate-shelter-test.php:79 includes/donate-shelter.php:82
+msgid "Monthly Donation:"
+msgstr "Месечно"
+
+#: donationembed.php:82 includes/donate-page-top.php:123
+#: includes/donate-shelter-test.php:96
+msgid "https://arsofia.com/thank-you"
+msgstr "https://arsofia.org/thank-you-bg"
+
+#: donationembed.php:88
+msgid "Donate with PayPal"
+msgstr "Дари с PayPal"
+
+#: donationembed.php:90 includes/donate-page-top.php:131
+#: includes/donate-shelter-test.php:104 includes/donate-shelter.php:107
+msgid "Please wait..."
+msgstr "Моля изчакай..."
+
+#: donationembed.php:122
+msgid "/images/fbanklogo.png"
+msgstr "/images/fbanklogo.png"
+
+#: donationembed.php:123
+msgid ""
+"Banking details: FIRST INVESTMENT BANK; 37 Dragan Tzankov blvd, Sofia, BG; "
+"SWIFT: FINV BG SF"
+msgstr ""
+"Банкови сметки: Първа инвестиционна банка; бул. Д. Цанков 37, София, BG; "
+"SWIFT: FINV BG SF"
+
+#: donationembed.php:124
+msgid ""
+"IBAN for BGN: BG07FINV91501215999954; IBAN for EUR: BG50FINV91501215999956"
+msgstr ""
+"IBAN в лева: BG07FINV91501215999954; IBAN в евро BG50FINV91501215999956"
+
+#: donationembed.php:125
+msgid "BENEFICIARY: A R Sofia Foundation; 23 James Bourchier blvd, Sofia, BG"
+msgstr "Титуляр: Фондация А Р София, бул. Джеймс Баучер 23, София, BG"
+
+#: donationembed.php:126
+msgid "Send SMS:"
+msgstr "Изпрати SMS:"
+
+#: donationembed.php:126
+msgid "DMS DOG"
+msgstr "DMS DOG"
+
+#: donationembed.php:126
+msgid "to mobile"
+msgstr "на номер"
+
+#: donationembed.php:126
+msgid "17 777"
+msgstr "17 777"
+
+#: donationembed.php:126
+msgid "1 lev - VIVACOM, Telenor and M-Tel"
+msgstr "1 лев за абонати на Vivacom, Telenor and M-Tel"
+
+#: footer.php:4
+msgid "Join Animal Rescue Sofia now!"
+msgstr "Присъедини се към нас!"
+
+#: footer.php:14
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: functions.php:37
+msgid "Primary Navigation"
+msgstr "Главна навигация"
+
+#: functions.php:38
+msgid "Secondary Navigation"
+msgstr "Второ Меню"
+
+#: functions.php:227
+msgid "Status"
+msgstr "Статус"
+
+#: functions.php:287
+msgid "Years: "
+msgstr "Години:"
+
+#: functions.php:287
+msgid "Months: "
+msgstr "Месеци:"
+
+#: header-gallery.php:58 headeroldmenu.php:107
+msgid "Home"
+msgstr "Начало"
+
+#: header-gallery.php:59 headeroldmenu.php:108
+msgid "About ARS"
+msgstr "За ARS"
+
+#: header-gallery.php:60 headeroldmenu.php:109
+msgid "Contact"
+msgstr "Контакт"
+
+#: header-gallery.php:61 headeroldmenu.php:110
+msgid "Links"
+msgstr "Връзки"
+
+#: header-gallery.php:62 headeroldmenu.php:111
+msgid "Info Bin"
+msgstr "Инфотека"
+
+#: header-gallery.php:65 headeroldmenu.php:114
+msgid "Library"
+msgstr "Библиотека"
+
+#: header-gallery.php:66 headeroldmenu.php:115
+msgid "Gallery"
+msgstr "Галерия"
+
+#: header-gallery.php:67 headeroldmenu.php:116
+msgid "Videos"
+msgstr "Видео"
+
+#: header-gallery.php:68 headeroldmenu.php:117
+msgid "our-banners"
+msgstr "bg/nashite-baneri"
+
+#: header-gallery.php:68 headeroldmenu.php:117
+msgid "Our banners"
+msgstr "Нашите банери"
+
+#: header-gallery.php:69 headeroldmenu.php:118
+msgid "FAQ"
+msgstr "Въпроси и Отговори"
+
+#: header-gallery.php:71 headeroldmenu.php:120
+msgid "Newsletter"
+msgstr "Бюлетин"
+
+#: header-gallery.php:72 headeroldmenu.php:121
+msgid "Campaigns"
+msgstr "Кампании"
+
+#: header-gallery.php:74 headeroldmenu.php:123
+msgid "Current"
+msgstr "Настоящи"
+
+#: header-gallery.php:75 headeroldmenu.php:124 includes/video_ex.php:2
+msgid "https://arsofia.com/calendar"
+msgstr "https://arsofia.org/bg/calendar-bg"
+
+#: header-gallery.php:75 headeroldmenu.php:124
+msgid "2011 Calendar"
+msgstr "2011 Calendar"
+
+#: header-gallery.php:76 headeroldmenu.php:125
+msgid "https://arsofia.com/shops"
+msgstr "https://arsofia.org/bg/ars-mesta"
+
+#: header-gallery.php:76 headeroldmenu.php:125
+msgid "ARS Shops"
+msgstr "АРС Места"
+
+#: header-gallery.php:77 headeroldmenu.php:126
+msgid "Say NO to cruelty!"
+msgstr "НE на насилието!"
+
+#: header-gallery.php:78 headeroldmenu.php:127
+msgid "starving"
+msgstr "glad"
+
+#: header-gallery.php:78 headeroldmenu.php:127
+msgid "Starving dogs"
+msgstr "Кремиковци"
+
+#: header-gallery.php:79 headeroldmenu.php:128
+msgid "Past"
+msgstr "Отминали"
+
+#: header-gallery.php:80 headeroldmenu.php:129
+msgid "One Breed"
+msgstr "Една порода"
+
+#: header-gallery.php:81 headeroldmenu.php:130
+msgid "Tea party"
+msgstr "Чаено парти"
+
+#: header-gallery.php:82 headeroldmenu.php:131
+msgid "Sangrea party"
+msgstr "Сангрия парти"
+
+#: header-gallery.php:83 headeroldmenu.php:132
+msgid "Beer party"
+msgstr "Бирено парти"
+
+#: header-gallery.php:84 headeroldmenu.php:133
+msgid "food"
+msgstr "food-bg"
+
+#: header-gallery.php:84 headeroldmenu.php:133
+msgid "Food party"
+msgstr "Кулинарно парти"
+
+#: header-gallery.php:85 headeroldmenu.php:134
+msgid "https://arsofia.com/halloween"
+msgstr "https://arsofia.org/bg/halloween"
+
+#: header-gallery.php:85 headeroldmenu.php:134
+msgid "Helloween party"
+msgstr "Хелоуин парти"
+
+#: header-gallery.php:86 headeroldmenu.php:135
+msgid "https://arsofia.com/mojito"
+msgstr "https://arsofia.org/bg/mojito"
+
+#: header-gallery.php:86 headeroldmenu.php:135
+msgid "Christmas party"
+msgstr "Коледно парти"
+
+#: header-gallery.php:87 headeroldmenu.php:136
+msgid "https://arsofia.com/wine-valentine"
+msgstr "https://arsofia.org/bg/valentine"
+
+#: header-gallery.php:87 headeroldmenu.php:136
+msgid "Valentine party"
+msgstr "Св.Валентин парти"
+
+#: header-gallery.php:88 headeroldmenu.php:137
+msgid "https://arsofia.com/spring"
+msgstr "https://arsofia.org/bg/spring-bg"
+
+#: header-gallery.php:88 headeroldmenu.php:137
+msgid "Spring Party"
+msgstr "Пролетно парти"
+
+#: header-gallery.php:89 headeroldmenu.php:138
+msgid "b-day"
+msgstr "b-day-bg"
+
+#: header-gallery.php:89 headeroldmenu.php:138
+msgid "B-Day Party"
+msgstr "Рожден ден!"
+
+#: header-gallery.php:90 headeroldmenu.php:139
+msgid "18892/this-saturday-kids-party"
+msgstr "18899/detsko-parti-s-kutreta-tazi-sabota"
+
+#: header-gallery.php:90 headeroldmenu.php:139
+msgid "Kids Party"
+msgstr "Детско парти"
+
+#: header-gallery.php:93 headeroldmenu.php:142
+msgid "Blog"
+msgstr "Блог"
+
+#: header-gallery.php:99 header-video.php:106 header.php:125
+#: headeroldmenu.php:149
+msgid "Search"
+msgstr "Търсене"
+
+#: header-gallery.php:108 header-video.php:116 header.php:134
+#: headeroldmenu.php:159
+msgid "Search here..."
+msgstr "Търси тук..."
+
+#: header-video.php:8 header.php:6 headeroldmenu.php:8 page-animals.php:52
+#: search.php:9
+msgid "Search Results"
+msgstr "Резултати от търсенето"
+
+#: header-video.php:13 header.php:11 headeroldmenu.php:13
+msgid "Tag Archive&nbsp;|&nbsp;"
+msgstr "Таг Архив&nbsp;|&nbsp;"
+
+#: header-video.php:133 header.php:151
+msgid "Rehomed"
+msgstr "Задомени"
+
+#: header-video.php:134 header.php:152
+msgid "Neutered"
+msgstr "Кастрирани"
+
+#: includes/adotpt_info.php:2 includes/adotpt_info.php:6
+#: includes/adotpt_info.php:10 includes/adotpt_info.php:14
+msgid "Show/Hide"
+msgstr "Покажи/Скрий"
+
+#: includes/adotpt_info.php:2
+msgid "ADOPTION DETAILS"
+msgstr "ЗА ОСИНОВЯВАНЕТО"
+
+#: includes/adotpt_info.php:4
+msgid ""
+"Adoption is free of charge. The animals go home dewormed, vaccinated, "
+"microchipped and with an EU passport. The dogs and cats over 5 months of age "
+"are also neutered. There is an adoption contract. Among other things it "
+"requires adoptive parents to neuter their pups and kittens when they are old "
+"enough."
+msgstr ""
+"Осиновяването е безплатно. Животинките си отиват у дома обезпаразитени, "
+"ваксинирани, с микрочип и ЕС паспорт. Кучетата и котките над 5 месеца се "
+"дават кастрирани. Договорът задължава осиновителите да кастрират осиновените "
+"си мъничета, когато възрастта им го позволи."
+
+#: includes/adotpt_info.php:6
+msgid "ADOPTING FROM THE SHELTER"
+msgstr "ОСИНОВЯВАНЕ ОТ ПРИЮТА"
+
+#: includes/adotpt_info.php:8
+msgid ""
+"The adoption procedure is not complicated. Prospective owners need to come "
+"see the dogs 3 times. On their first visit they go through an interview - to "
+"see if the person will be a responsible owner and what dogs will be "
+"suitable. The person is then introduced to dogs to choose from. The second "
+"visit is \"to make sure\". On the third a contact can be signed and the "
+"person goes home with his new friend. If you have trouble getting around or "
+"are from another city, write us, we will try to help."
+msgstr ""
+"Процедурата за осиновявания е логична и смислена – няма нищо страшно. От "
+"кандидатите се изискват 3 посещения в приюта за опознаване с кучето. При "
+"първото се провежда интервю – наясно ли е с отговорностите човекът, какво "
+"куче е подходящо за живота му и т.н… Второто посещение е за да се утвърди "
+"изборът и да се опознаят малко по-добре новите приятели. На третото "
+"посещение се подписва осиновителски договор, а кучето може да си отиде у "
+"дома. Ако сте трудноподвижни или от друг град – пишете ни, ще се опитаме да "
+"ви улесним."
+
+#: includes/adotpt_info.php:10
+msgid "ADOPTING A CAT"
+msgstr "ОСИНОВЯВАНЕ НА КОТКА"
+
+#: includes/adotpt_info.php:12
+msgid ""
+"All our cats live in foster families. You need to contact us first. The cat "
+"adoption procedure is simple. The interview is conducted by phone. A meeting "
+"is set at a moment, convenient to both sides.  If everything goes well then "
+"the new owners can bring their new friend home immediately after signing an "
+"adoption contract. In some cases the signing of the contract and/or the "
+"meeting take place at the shelter."
+msgstr ""
+"Всички наши котки живеят при приемни стопани. Необходимо е първо да се "
+"свържете с нас. Процедурата за осиновяване на котка е сравнително по-лека. "
+"Интервюто на кандидата се провежда по телефона. Прави се среща в удобно за "
+"приемните стопани време. Ако хората и животинчето се харесат, то може да се "
+"прибере с новите си стопани след като се подпише договор.  В някои случаи "
+"подписването на договора и/или срещата между хора и животинче се провеждат в "
+"приюта."
+
+#: includes/adotpt_info.php:14
+msgid "ADOPTING A FOSTERED DOG"
+msgstr "ОСИНОВЯВАНЕ НА КУЧЕ ОТ ПРИЕМЕН ДОМ"
+
+#: includes/adotpt_info.php:16
+msgid ""
+"You need to contact us first to get in touch with the foster family. It is "
+"not hard to adopt a fostered dog. After you contact us, we will get you in "
+"touch with the fosters. You will need to make an appointment with them - to "
+"meet and get to know the dog in person. If everything goes OK, you will be "
+"asked to come to the shelter for your interview and contract. Afterward, you "
+"can pick up your new best friend from the fosters and take it home."
+msgstr ""
+"Необходимо е първо да се свържете с нас. За да ви свържем с приемните "
+"стопани първо е необходимо да ни пишете. В удобно за двете страни време "
+"можете да се срещнете с кучето, да се опознаете и да решите дали се "
+"харесвате. Ако сте се харесали, идвате до приюта, където се провежда вашето "
+"интервю и се подписва осиновителски договор. Веднага след това можете да "
+"вземете своето ново приятелче у дома."
+
+#: includes/donate-page-top.php:51
+msgid "FUNDS ARE DESPERATELY NEEDED!"
+msgstr "ТЕ НЯМАТ ШАНС БЕЗ ВАШАТА ПОМОЩ!"
+
+#: includes/donate-page-top.php:52
+msgid ""
+"Regular monthly donations are the basic, spinal cord of our income. Creating "
+"a pool of supporters who give a little sum on a regular basis is crucial - "
+"this way we know we have a certain budget and we can continue to save lives, "
+"find homes and care for the unwanted."
+msgstr ""
+"Ежемесечните дарения са базата, върху която стъпваме като организация. Тъй "
+"като се финансираме само и единствено от общността - чрез доброволни "
+"дарения, ние разчитаме на месечния бюджет, който ни отреждате, за да "
+"спасяваме, задомяваме и да се грижим за нежеланите животни от улицата."
+
+#: includes/donate-page-top.php:55
+msgid "Banking details:"
+msgstr "Банкова сметка"
+
+#: includes/donate-page-top.php:56
+msgid "FIRST INVESTMENT BANK"
+msgstr "ПЪРВА ИНВЕСТИЦИОННА БАНКА"
+
+#: includes/donate-page-top.php:57
+msgid "37 Dragan Tzankov blvd, Sofia, BG"
+msgstr "бул. Д. Цанков 37, София, BG"
+
+#: includes/donate-page-top.php:58
+msgid "SWIFT: FINV BG SF"
+msgstr "SWIFT: FINV BG SF"
+
+#: includes/donate-page-top.php:59
+msgid "IBAN for BGN: BG07FINV91501215999954"
+msgstr "IBAN В ЛЕВА: BG07FINV91501215999954"
+
+#: includes/donate-page-top.php:60
+msgid "IBAN for EUR: BG50FINV91501215999956"
+msgstr "IBAN В ЕВРО: BG50FINV91501215999956"
+
+#: includes/donate-page-top.php:61
+msgid "BENEFICIARY: A R Sofia Foundation"
+msgstr "ТИТУЛЯР: Фондация А Р София"
+
+#: includes/donate-page-top.php:62
+msgid "23 James Bourchier blvd, Sofia, BG"
+msgstr "бул.Д.Баучер 23, София, BG"
+
+#: includes/donate-page-top.php:66
+msgid "Donation with ePay"
+msgstr "Дарение чрез  ePay"
+
+#: includes/donate-page-top.php:92
+msgid "Donation with PayPal"
+msgstr "Дарение чрез Пейпал"
+
+#: includes/donate-page-top.php:93
+msgid "Your regular support matters to us! Thank you for caring!"
+msgstr "Вашите редовни дарение са важни за нас. Благодарим!"
+
+#: includes/donate-page-top.php:97
+msgid "Donation Information"
+msgstr "Детайли за дарението"
+
+#: includes/donate-page-top.php:129 includes/donate-shelter-test.php:102
+#: includes/donate-shelter.php:105 includes/front-navigation_new.php:17
+msgid "Donate"
+msgstr "Дари"
+
+#: includes/donate-page-top.php:134 includes/donate-shelter-test.php:106
+#: includes/donate-shelter.php:109
+msgid ""
+"Info : once you click on 'Donate', you will be transferred to PayPal where "
+"you can enter your payment information."
+msgstr ""
+"Инфо : когато кликнете върху бутона 'Дари', ще бъдете пренасочени към "
+"PayPal, където се въвежда информацията за превода."
+
+#: includes/donate-shelter-test.php:76 includes/donate-shelter.php:79
+msgid "Your Donation"
+msgstr "Вашето дарение"
+
+#: includes/donate-shelter-test.php:134 includes/donate-shelter.php:137
+msgid "First Investment Bank"
+msgstr "Първа инвестиционна банка"
+
+#: includes/donate-shelter-test.php:135 includes/donate-shelter.php:138
+msgid "37 D.Tsankov blvd, Sofia 1797, BULGARIA"
+msgstr "Бул. Драган Цанков 37, София 1797"
+
+#: includes/donate-shelter-test.php:136 includes/donate-shelter.php:139
+msgid "BIC: FINVBGSF"
+msgstr "BIC: FINVBGSF"
+
+#: includes/donate-shelter-test.php:137 includes/donate-shelter.php:140
+msgid "IN EURO (EUR), IBAN: BG50FINV91501215999956"
+msgstr "В ЕВРО (EUR), IBAN: BG50FINV91501215999956"
+
+#: includes/donate-shelter-test.php:138 includes/donate-shelter.php:141
+msgid "IN LEVA (BGN), IBAN: BG07FINV91501215999954"
+msgstr "В ЛЕВА (BGN), IBAN: BG07FINV91501215999954"
+
+#: includes/donate-shelter-test.php:139 includes/donate-shelter.php:142
+msgid "Name: A R Sofia Foundation"
+msgstr "Титуляр: Фондация \"А Р София\""
+
+#: includes/donate-shelter.php:99
+msgid "https://arsofia.com/thank-you/"
+msgstr "https://arsofia.org/thank-you-bg"
+
+#: includes/facebook_like_button.php:18
+#: includes/facebook_recommend_button.php:32
+#: includes/facebook_recommend_shelter.php:32
+msgid "SHARE"
+msgstr "СПОДЕЛИ"
+
+#: includes/featured.php:19
+msgid "/ribbon.png"
+msgstr "/ribbon-bg.png"
+
+#: includes/front-navigation.php:4
+msgid "/bogrov"
+msgstr "bogrov-bg"
+
+#: includes/front-navigation.php:4
+msgid "/images/front-col/bogrov_banner.jpg"
+msgstr "/images/front-col/bogrov_banner_bg.jpg"
+
+#: includes/front-navigation.php:7 includes/front-navigation_new.php:12
+#: includes/front-navigation_new.php:13
+msgid "/adopt"
+msgstr "osinovi"
+
+#: includes/front-navigation.php:7
+msgid "/images/front-col/adopt.jpg"
+msgstr "/images/front-col/adopt-bg.jpg"
+
+#: includes/front-navigation.php:10 includes/front-navigation_new.php:16
+#: includes/front-navigation_new.php:17
+msgid "/donate"
+msgstr "dari"
+
+#: includes/front-navigation.php:10
+msgid "/images/front-col/donate.jpg"
+msgstr "/images/front-col/donate-bg.jpg"
+
+#: includes/front-navigation.php:13 includes/front-navigation_new.php:24
+#: includes/front-navigation_new.php:25
+msgid "/volunteer"
+msgstr "uchastvai"
+
+#: includes/front-navigation.php:13
+msgid "/images/front-col/volunteer.jpg"
+msgstr "/images/front-col/volunteer-bg.jpg"
+
+#: includes/front-navigation.php:16 includes/front-navigation_new.php:20
+#: includes/front-navigation_new.php:21
+msgid "/neuter"
+msgstr "kastrirai"
+
+#: includes/front-navigation.php:16
+msgid "/images/front-col/neuter.jpg"
+msgstr "/images/front-col/neuter-bg.jpg"
+
+#: includes/front-navigation.php:19
+msgid "/starving"
+msgstr "glad"
+
+#: includes/front-navigation.php:19
+msgid "/images/front-col/kremikovtzi.jpg"
+msgstr "/images/front-col/kremikovtzi-bg.jpg"
+
+#: includes/front-navigation_new.php:4 includes/front-navigation_new.php:5
+msgid "/shelter"
+msgstr "priut"
+
+#: includes/front-navigation_new.php:4
+#, fuzzy
+msgid "/images/front-col/new_shelter.png"
+msgstr "/images/front-col/neuter-bg.jpg"
+
+#: includes/front-navigation_new.php:5
+msgid "ARS Shelter"
+msgstr "Приют АРС"
+
+#: includes/front-navigation_new.php:8 includes/front-navigation_new.php:9
+msgid "/the-farm/"
+msgstr "/bg/fermata/"
+
+#: includes/front-navigation_new.php:8
+#, fuzzy
+msgid "/images/front-col/fermata.png"
+msgstr "/images/front-col/adopt-bg.jpg"
+
+#: includes/front-navigation_new.php:9
+msgid "The Farm"
+msgstr "Фермата"
+
+#: includes/front-navigation_new.php:12
+#, fuzzy
+msgid "/images/front-col/adoptv4.png"
+msgstr "/images/front-col/adopt-bg.jpg"
+
+#: includes/front-navigation_new.php:13
+msgid "Adopt"
+msgstr "Осинови"
+
+#: includes/front-navigation_new.php:16
+#, fuzzy
+msgid "/images/front-col/donatev4.png"
+msgstr "/images/front-col/donate-bg.jpg"
+
+#: includes/front-navigation_new.php:20
+#, fuzzy
+msgid "/images/front-col/neuterv4.png"
+msgstr "/images/front-col/neuter-bg.jpg"
+
+#: includes/front-navigation_new.php:21
+msgid "Neuter"
+msgstr "Кастрирай"
+
+#: includes/front-navigation_new.php:24
+#, fuzzy
+msgid "/images/front-col/volunteerv4.png"
+msgstr "/images/front-col/volunteer-bg.jpg"
+
+#: includes/front-navigation_new.php:25
+msgid "Volunteer"
+msgstr "Доброволци"
+
+#: includes/front-navigation_new.php:28 includes/front-navigation_new.php:29
+msgid "/pets-u-helps-ar-sofia"
+msgstr "/pets-u-helps-ar-sofia"
+
+#: includes/front-navigation_new.php:28
+msgid "/images/front-col/petsandu.png"
+msgstr "/images/front-col/petsandu.png"
+
+#: includes/front-navigation_new.php:29
+msgid "Shop"
+msgstr "Магазин"
+
+#: includes/rehomed.php:2
+msgid "A film about our work"
+msgstr "Филм за нашата работа"
+
+#: includes/shelter-message.php:2
+msgid "/a-happy-new-beginning-in-2014/"
+msgstr "chestito-novo-nachalo-prez-2014-ta-godina"
+
+#: includes/shelter-message.php:4
+#, fuzzy
+msgid "https://arsofia.com/wp-content/uploads/2014/01/hdog1.png"
+msgstr "https://arsofia.com/wp-content/uploads/2013/10/attention-hi-r1-c11.png"
+
+#: includes/shelter-message.php:5
+msgid ""
+"Dear friends, we have moved to our Farm along with all the dogs. We work "
+"hard every day to turn the Farm into a real shelter. A few hard months of "
+"works and repairs are ahead and of course - help is welcome - both "
+"construction materials and volunteer workforce will come in handy. You can "
+"read more about the translocation <span style=\"color:sienna; font-weight:"
+"bold;\"> HERE!</span>"
+msgstr ""
+"Скъпи приятели, вече сме в нашата Ферма – ние и всички кучета. Работим всеки "
+"ден, за да я превърнем в истински приют. Очакват ни няколко месеца ремонтна "
+"дейност и разбира се – приемаме помощ – както материали, така и доброволен "
+"труд . Повече за преместването ни ще намерите <span style=\"color:sienna; "
+"font-weight:bold;\"> ТУК. </span>"
+
+#: includes/shelter-message.php:6
+msgid ""
+"Although we are admitting and neutering at this point, we have our 200 dogs "
+"with us and they are eagerly waiting for adopters and their most favorite "
+"volunteers for walks and joy. You are welcome!"
+msgstr ""
+"Макар и да не приемаме нови животни на този етап и да не можем да извършваме "
+"кастрации, с нас са нашите 200 кучета, които очакват осиновителите си и "
+"прекрасните доброволци за разходки и радости. Добре дошли сте! "
+
+#: includes/video.php:5
+msgid "RECENT VIDEOS"
+msgstr "ПОСЛЕДНИ КЛИПОВЕ"
+
+#: includes/video.php:6
+msgid "Click below to view videos..."
+msgstr "Избери видео от списъка"
+
+#: includes/video.php:35
+msgid "Read the rest of this entry &raquo;"
+msgstr "Чети още &raquo;"
+
+#: includes/video_ex.php:2
+msgid "calendar_front.jpg"
+msgstr "calendar_front.jpg"
+
+#: includes/welcome-message.php:5
+msgid "Welcome to our webpage"
+msgstr "Добре дошли в страниците на Animal Rescue Sofia"
+
+#: includes/welcome-message.php:7
+msgid ""
+"<p>There are real live people standing behind everything we manage to "
+"achieve. For every rescued, every healed, every rehomed little pet, there "
+"are kind-hearted people who have given their best to succeed.</p><p>Our "
+"cause has many supporters. Many opponents as well. We thank you for being "
+"here. Because nothing would work if it was not for each of us coming to a "
+"point where we realise: I want to help and I will. Here. Today. Me.</"
+"p><p>The Bulgarian reality will be as we make it. We have created Animal "
+"Rescue Sofia to work on the humane and proffecional solution to the stray "
+"dog population in the country.</p><p>We are here to help. We are here to "
+"save lives.</p><p><b>Thank you for being one of us. Together we can achieve "
+"so much more!</b></p>"
+msgstr ""
+"<p>Зад всичко, което успяваме да постигнем, зад всяко спасено, всяко "
+"излекувано, всяко задомено животинче стоят конкретни отдадени хора с големи "
+"сърца.</p><p>Нашата кауза има много поддръжници. Много противници също. "
+"Благодарим ви, че сте тук. Защото нищо нямаше да може да случи, ако всеки "
+"един от нас не беше си казал: искам, мога, ще помогна. Днес. Тук. Аз.</"
+"p><p>Реалността в България ще бъде такава, каквато я направим. Създадохме "
+"Animal Rescue Sofia, за да работим за хуманно и професионално решаване на "
+"проблема с бездомните животни.</p><p>Събрали сме се, за да помогнем. Събрали "
+"сме се, за да спасяваме живот.</p><p><b>Благодарим ви, че сте сред нас. "
+"Заедно можем да постигнем толкова много!</b></p>"
+
+#: latest_blog.php:2
+msgid "Latest from the blog"
+msgstr "Последно от блога"
+
+#: latest_blog.php:2 latest_blog.php:35
+msgid "Read Blog"
+msgstr "Още от блога"
+
+#: news_box.php:3
+msgid "items/the-farm-newsflash"
+msgstr "items/fermata-newsflash"
+
+#: news_box.php:3
+msgid "All news from The Farm"
+msgstr "Всички новини от Фермата"
+
+#: news_box.php:3
+msgid "The Farm Newsflash"
+msgstr "Новини от Фермата"
+
+#: news_box.php:36
+msgid "All news"
+msgstr "Всички"
+
+#: news_box.php:36
+msgid "News"
+msgstr "Новини от АРС"
+
+#: page-wide.php:17
+msgid "An ARS Shelter"
+msgstr "Мечтаният приют"
+
+#: page-wide.php:19
+msgid "Donate Today"
+msgstr "Дарете сега"
+
+#: page-wide.php:21
+msgid "Frequently Asked Questions"
+msgstr "Често задавани въпроси"
+
+#: page-wide.php:23
+msgid "Our Donors"
+msgstr "Нашите дарители"
+
+#: page-wide.php:26
+msgid "Read in German"
+msgstr "Read in German"
+
+#: page-wide.php:48
+msgid "Scroll to top"
+msgstr "Обратно горе"
+
+#: search.php:9
+#, php-format
+msgid "'%s'"
+msgstr "'%s'"
+
+#: sidebar.php:10
+msgid "Dashboard"
+msgstr "Табло"
+
+#: sidebar_recent.php:4
+msgid "Latest"
+msgstr "Последни новини"
+
+#: single-animals.php:39 single-animals.php:82 single-video.php:15
+#: single.php:12
+msgid "Edit"
+msgstr "Редакция"
+
+#: single-animals.php:48 single-animals.php:94
+msgid "Type"
+msgstr "Тип"
+
+#: single-animals.php:49 single-animals.php:95
+msgid "Gender"
+msgstr "Пол"
+
+#: single-animals.php:50 single-animals.php:96
+msgid "Age"
+msgstr "Възраст"
+
+#: single-animals.php:52 single-animals.php:103
+msgid "Status*"
+msgstr "Статус*"
+
+#: single-animals.php:56 single-animals.php:110
+msgid "This animal is unavailable."
+msgstr "Този запис е недостъпен."
+
+#: single-animals.php:56 single-animals.php:110
+msgid "Back to animals"
+msgstr "Всички животни"
+
+#: single-animals.php:58 single-animals.php:113
+msgid "Want to Adopt? Contact us!"
+msgstr "За осиновяване се свържете с нас!"
+
+#: single-animals.php:58 single-animals.php:113
+msgid "Back to results"
+msgstr "Към резултатите"
+
+#: single-animals.php:58 single-animals.php:113
+msgid "All Animals"
+msgstr "Всички животни"
+
+#: single-animals.php:75
+msgid "Outdated Record. Return to all Animals."
+msgstr "Изтекъл запис. Връщане към всички животни."
+
+#: single-animals.php:97
+msgid "Size"
+msgstr "Размер"
+
+#: single-animals.php:98
+msgid "Description"
+msgstr "Описание"
+
+#: single-animals.php:101
+msgid "Note*"
+msgstr "Бележка*"
+
+#: single-animals.php:104
+msgid "File ID*"
+msgstr "File ID*"
+
+#: single-animals.php:106
+msgid "Shelter Date*"
+msgstr "Дата на приемане*"
+
+#: single-animals.php:119
+msgid "More animals"
+msgstr "Още животни"
+
+#~ msgid "Status*:"
+#~ msgstr "Статус*"
+
+#~ msgid "Says:"
+#~ msgstr "Написа"
+
+#~ msgid "Want to Adopt? Contact with us!"
+#~ msgstr "За осиновяване се свържете с нас!"
+
+#~ msgid "/the-farm-is-ours/"
+#~ msgstr "/fermata-e-nasha/"
+
+#~ msgid "Dear friends, dear miracle-workers, dear angels, WE DID IT!!!"
+#~ msgstr "Уважаеми приятели, скъпи чудотворци, ангели, УСПЯХМЕ!!! "
+
+#~ msgid ""
+#~ "ARSofia now has it's very own Farm where we will continue caring for the "
+#~ "saddest creatures of our city - the homeless dogs and cats. From today - "
+#~ "18.12.2013, till the wonderful day when there will be no more suffering "
+#~ "animals in our streets to look after!"
+#~ msgstr ""
+#~ "АРСофия вече има своята мечтана Ферма, където заедно ще продължим да се "
+#~ "грижим за най-тъжните жители на града ни - бездомните котки и кучета, от "
+#~ "днес (18.12.2013) до прекрасния ден, в който вече няма да има страдалци "
+#~ "по улиците ни!"
+
+#~ msgid ""
+#~ "We thank you for joining us, we thank you for making space for the "
+#~ "troubled animals in your huge hearts, we thank you for giving from the "
+#~ "little you have so they can be happy too! We wish you the most wondeful "
+#~ "hollidays, filled with love, light and happiness!<span style=\"color:"
+#~ "sienna; font-weight:bold;\"> Learn more!</span>"
+#~ msgstr ""
+#~ "Благодарим ви, че сте с нас, че огромните ви сърца имат място за толкова "
+#~ "много приятели в беда, че дадохте от малкото, което имате, за да бъдат "
+#~ "щастливи и те! Пожелаваме ви светли празници, изпълнени с любов и "
+#~ "щастливи мигове! <span style=\"color:sienna; font-weight:bold;\"> Научете "
+#~ "повече.</span>"
+
+#~ msgid "Specal pets"
+#~ msgstr "Специални"
+
+#~ msgid "Fostered dogs"
+#~ msgstr "Приемни кучета"
+
+#~ msgid "Our Cats"
+#~ msgstr "Нашите котки"
+
+#~ msgid "Any"
+#~ msgstr "Всички"
+
+#~ msgid "0-6 months"
+#~ msgstr "0-6 месеца"
+
+#~ msgid "6-18 months"
+#~ msgstr "6-18 месеца"
+
+#~ msgid "1,5 - 3 years"
+#~ msgstr "1,5 - 3 години"
+
+#~ msgid "3-8 years"
+#~ msgstr "3-8 години"
+
+#~ msgid "9+ years"
+#~ msgstr "9+ години"
+
+#, fuzzy
+#~ msgid "Latest entries"
+#~ msgstr "Последни новини"
+
+#~ msgid "Animal Rescue Bulgaria Foundation"
+#~ msgstr "Фондация \"Помощ за животните - България\""
+
+#~ msgid "BIC: PRCBBGSF"
+#~ msgstr "BIC: PRCBBGSF"
+
+#~ msgid "ProCredit Bank"
+#~ msgstr "ПроКредит"
+
+#~ msgid "IN LEVA (BGN): IBAN: BG54PRCB92301033111017"
+#~ msgstr "В ЛЕВА (BGN): IBAN: BG54PRCB92301033111017"
+
+#~ msgid "IN EURO (EUR): IBAN: BG04PRCB92301433111011"
+#~ msgstr "IN ЕВРО (EUR): IBAN: BG04PRCB92301433111011"
+
+#~ msgid "News from Bogrov"
+#~ msgstr "Новини от Богров"
+
+#, fuzzy
+#~ msgid "/images/front-col/bogrovv4.png"
+#~ msgstr "/images/front-col/bogrov_banner_bg.jpg"
+
+#~ msgid "Bogrov"
+#~ msgstr "Богров"
+
+#~ msgid "Soecial"
+#~ msgstr "Специално"
+
+#~ msgid "Post a comment"
+#~ msgstr "Коментирай"
+
+#~ msgid "One comment"
+#~ msgstr "Един коментар"
+
+#, fuzzy
+#~ msgid "% comments"
+#~ msgstr "% коментара"
+
+#~ msgid ""
+#~ "Dear friends, our shelter is being shut down and there is a real risk "
+#~ "that we might stop working, as there is no place to do so."
+#~ msgstr ""
+#~ "Скъпи приятели, затварят приюта ни и има реален риск да прекъснем "
+#~ "работата си, защото няма къде да продължим да работим."
+
+#~ msgid ""
+#~ "We need to urgently raise money for the purchasing of a decent farm "
+#~ "nearby where we can continue helping the orphans of our city."
+#~ msgstr ""
+#~ "Необходимо е спешно да съберем пари за закупуването на удобна ферма "
+#~ "недалеч от настоящото ни място, за да може Animal Rescue Sofia да остане "
+#~ "да работи за бездомничетата на града."
+
+#~ msgid ""
+#~ "Please, read about it and if you care if we go forth or not, do help - "
+#~ "the dogs really need you today. Thank you!<span style=\"color:sienna; "
+#~ "font-weight:bold;\"> Click here to learn how.</span>"
+#~ msgstr ""
+#~ "Молим, запознайте се със ситуацията и ако ви е грижа дали ще ни има – "
+#~ "помогнете според възможностите си – днес кучетата наистина имат нужда от "
+#~ "вас. Благодарим ви!<span style=\"color:sienna; font-weight:bold;\"> "
+#~ "Щракнете тук, за да научите повече.</span>"
